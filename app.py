@@ -32,7 +32,7 @@ def wrangle(filepath):
     return df
 
 
-df = wrangle("data/SCFP2019.csv.gz")
+df = wrangle("SCFP2019.csv.gz")
 
 
 
